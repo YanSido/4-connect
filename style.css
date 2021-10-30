@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table button {
+  padding: 20px 20px 20px 20px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#reset-btn {
+  position: absolute;
+  bottom: 0;
+  left: 45%;
+  padding: 10px 50px 10px 50px;
+}
